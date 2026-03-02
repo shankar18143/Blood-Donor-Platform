@@ -9,7 +9,7 @@
                 }
                 @keyframes type-name {
                     from { width: 0; }
-                    to { width: 8ch; }  /* Characters in "Bharath " */
+                    to { width: 8ch; }  /* Characters in "Shankar " */
                 }
                 @keyframes blink-caret {
                     from, to { border-color: transparent; }
