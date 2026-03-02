@@ -9,7 +9,7 @@
                 }
                 @keyframes type-name {
                     from { width: 0; }
-                    to { width: 8ch; }  /* Characters in "Shankar " */
+                    to { width: 8ch; }  /* Characters in "SHANKAR " */
                 }
                 @keyframes blink-caret {
                     from, to { border-color: transparent; }
@@ -87,7 +87,7 @@
             <div class="container">
                 <!-- Line 1 with typing name -->
                 <div>
-                    <span class="line1">Built and maintained by </span><span class="name">Bharath</span>
+                    <span class="line1">Built and maintained by </span><span class="name">Shankar</span>
                 </div>
                 <!-- Line 2 with sweep animation -->
                 <div class="line2-wrapper">
